@@ -1,5 +1,5 @@
 {
-  "name": "react-native-calendars",
+  "name": "go-calendars",
   "version": "1.22.0",
   "main": "src/index.js",
   "description": "React Native Calendar Components",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wix/react-native-calendars"
+    "url": "git+https://github.com/thienthanmeo/go-calendars.git"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
