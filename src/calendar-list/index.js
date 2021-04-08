@@ -308,6 +308,7 @@ class CalendarList extends Component {
           keyExtractor={this.props.keyExtractor}
           onEndReachedThreshold={this.props.onEndReachedThreshold}
           onEndReached={this.props.onEndReached}
+          {...this.props}
         />
         {this.renderStaticHeader()}
       </View>
